@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(55): warning C4101: 'ex' : variable locale non référencée
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(715): warning C4101: 'ex' : variable locale non référencée
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(741): warning C4101: 'ex' : variable locale non référencée
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(765): warning C4101: 'ex' : variable locale non référencée
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(796): warning C4101: 'ex' : variable locale non référencée
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(838): warning C4101: 'ex' : variable locale non référencée
+  Participant.cpp
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(55): warning C4101: 'ex' : variable locale non référencée
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(715): warning C4101: 'ex' : variable locale non référencée
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(741): warning C4101: 'ex' : variable locale non référencée
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(765): warning C4101: 'ex' : variable locale non référencée
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(796): warning C4101: 'ex' : variable locale non référencée
+c:\users\paihere\desktop\bts_etude\visual_studio\projet_chrono_ng\chrono_ng_directbdd_heure_design_color\chrono_ng\Participant.h(838): warning C4101: 'ex' : variable locale non référencée
+  Génération de code en cours...
+  Chrono_ng.vcxproj -> C:\Users\Paihere\Desktop\BTS_ETUDE\Visual_Studio\Projet_Chrono_nG\Chrono_ng_DirectBDD_Heure_Design_Color\Debug\Chrono_ng.exe
+  Chrono_ng.vcxproj -> C:\Users\Paihere\Desktop\BTS_ETUDE\Visual_Studio\Projet_Chrono_nG\Chrono_ng_DirectBDD_Heure_Design_Color\Debug\Chrono_ng.pdb (Full PDB)
